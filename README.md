@@ -43,6 +43,6 @@ On running the test from [ start_test_e2e.py ]:
 
 QA notes
 
-•	Unfortunately the browser keeps closing automatically while using ChromeDriverManager. Probably the driver gets garbage-collected. So I was compelled to use a machine-located driver. Please find a driver included in my assignment;
+•	Unfortunately the browser keeps closing automatically while using ChromeDriverManager. Probably the driver gets garbage-collected. So I was compelled to use a machine-located driver. Please find a driver included there;
 
 •	The driver for the test was set for Selenium 4.1.0. Please change it if you have another version on your machine. Drivers are here: https://pypi.org/project/webdriver-manager/ ;
